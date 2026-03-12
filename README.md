@@ -43,7 +43,9 @@ The Event Management System is a web application designed to facilitate the crea
 
 - Bootstrap: For responsive and modern UI design.
 
-## Interface
+## Interface Demo
 
-![App Interface](https://drive.google.com/file/d/1BbHKPr_rgoDlTM2t4_insvRb_NQrgpl0/view?usp=drive_link)
+🎥 **Watch the project demo video**
+
+[Click here to watch the video](https://drive.google.com/file/d/1BbHKPr_rgoDlTM2t4_insvRb_NQrgpl0/view)
 
